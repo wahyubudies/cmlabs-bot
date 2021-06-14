@@ -2,7 +2,7 @@
 
 CMLABSBOT v1 is a simple Telegram bot that I made to fulfill the probation test at the CMLABS company. This bot was created using the Telegraph framework.
 
-## Scope
+## Scope 🦿
 This bot has limitations and is still in development. Here are some commands that can be run on this bot.
 
 
